@@ -34,6 +34,7 @@
 
 ## Hard
 - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) `leetcode`
 - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
