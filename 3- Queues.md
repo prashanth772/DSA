@@ -1,6 +1,5 @@
 ## Medium
 
-- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) `leetcode`
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
