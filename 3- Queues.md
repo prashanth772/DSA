@@ -1,3 +1,4 @@
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 - [ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) `leetcode`
+- [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/) `Geeks for Geeks`
