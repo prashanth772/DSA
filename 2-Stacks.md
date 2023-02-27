@@ -2,6 +2,7 @@
 
 ## Easy
 - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
+- [Next greater element II](https://leetcode.com/problems/next-greater-element-ii/) `leetcode`
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
