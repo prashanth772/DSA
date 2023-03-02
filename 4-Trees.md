@@ -5,7 +5,6 @@
 - [Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true) `Hackerrank`
 - [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?isFullScreen=true) `Hackerrank`
 - [Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem?isFullScreen=true) `Hackerrank`
-- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/907819369/) `leetcode`
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) `leetcode`
 
 ## Medium
