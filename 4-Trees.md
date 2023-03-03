@@ -6,6 +6,10 @@
 - [Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?isFullScreen=true) `Hackerrank`
 - [Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem?isFullScreen=true) `Hackerrank`
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) `leetcode`
+- [Tree Traversals](https://www.hackerrank.com/contests/smart-interviews/challenges/si-tree-traversals) `SI`
+- [Height of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-height-of-tree) `SI`
+- [Depth of Tree Nodes](https://www.hackerrank.com/contests/smart-interviews/challenges/si-depth-of-tree-nodes) `SI`
+- [Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree) `SI`
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
