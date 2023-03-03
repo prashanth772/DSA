@@ -10,14 +10,13 @@
 - [Height of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-height-of-tree) `SI`
 - [Depth of Tree Nodes](https://www.hackerrank.com/contests/smart-interviews/challenges/si-depth-of-tree-nodes) `SI`
 - [Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree) `SI`
+- [Diameter of a Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) `leetcode`
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) `leetcode`
 
-
-- [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
-- [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
+## yet to be solved
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
 - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
