@@ -12,10 +12,13 @@
 - [Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree) `SI`
 - [Diameter of a Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) `leetcode`
 - [Top View](https://www.hackerrank.com/challenges/tree-top-view/problem?isFullScreen=true) `leetcode`
+- [Right View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
+- [Right View](https://www.hackerrank.com/contests/smart-interviews/challenges/si-right-view-of-tree/) `SI`
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) `leetcode`
+- [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
 
 ## yet to be solved
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
