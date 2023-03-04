@@ -11,6 +11,7 @@
 - [Depth of Tree Nodes](https://www.hackerrank.com/contests/smart-interviews/challenges/si-depth-of-tree-nodes) `SI`
 - [Level Order of Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-level-order-of-tree) `SI`
 - [Diameter of a Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) `leetcode`
+- [Top View](https://www.hackerrank.com/challenges/tree-top-view/problem?isFullScreen=true) `leetcode`
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
