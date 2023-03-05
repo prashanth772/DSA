@@ -15,11 +15,14 @@
 - [Right View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
 - [Right View](https://www.hackerrank.com/contests/smart-interviews/challenges/si-right-view-of-tree/) `SI`
 - [Left View](https://www.hackerrank.com/contests/smart-interviews/challenges/si-left-view-of-tree/) `SI`
+- [is Full BST](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-full-binary-tree) `SI`
+- [is complete BT](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-complete-binary-tree) `SI`
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) `leetcode`
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
+- [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) `leetcode`
 
 ## yet to be solved
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
