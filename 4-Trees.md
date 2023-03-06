@@ -17,6 +17,9 @@
 - [Left View](https://www.hackerrank.com/contests/smart-interviews/challenges/si-left-view-of-tree/) `SI`
 - [is Full BST](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-full-binary-tree) `SI`
 - [is complete BT](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-complete-binary-tree) `SI`
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
+- [IS BST?](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-bst/) `SI`
+
 
 ## Medium
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/907868572/) `leetcode`
