@@ -14,8 +14,6 @@
 - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
 - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
-- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
-- [IS BST?](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-bst/) `SI`
 
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
