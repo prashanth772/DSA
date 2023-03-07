@@ -23,6 +23,9 @@
 - [Is Balanced Binary Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-balanced-tree/) `leetcode`
 - [ZigZag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) `leetcode`
 - [Invert BST](https://www.interviewbit.com/problems/invert-the-binary-tree/) `interviewBit`
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) `leetcode`
+- [Binary PreOrder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
+- [Binary PostOrder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
 
 
 ## Medium
