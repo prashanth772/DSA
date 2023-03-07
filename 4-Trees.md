@@ -22,6 +22,7 @@
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) `leetcode`
 - [Is Balanced Binary Tree](https://www.hackerrank.com/contests/smart-interviews/challenges/si-is-balanced-tree/) `leetcode`
 - [ZigZag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) `leetcode`
+- [Invert BST](https://www.interviewbit.com/problems/invert-the-binary-tree/) `interviewBit`
 
 
 ## Medium
