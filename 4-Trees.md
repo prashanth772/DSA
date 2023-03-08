@@ -27,6 +27,8 @@
 - [Binary PreOrder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
 - [Binary PostOrder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `leetcode`
+- [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
+- [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/) `GFG`
 
 
 ## Medium
@@ -35,8 +37,8 @@
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) `leetcode`
 - [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1) `GFG`
+- 
 
-## yet to be solved
-- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
+## Hard
 - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
