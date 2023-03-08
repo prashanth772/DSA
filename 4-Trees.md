@@ -26,6 +26,7 @@
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) `leetcode`
 - [Binary PreOrder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
 - [Binary PostOrder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `leetcode`
 
 
 ## Medium
@@ -33,6 +34,7 @@
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) `leetcode`
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) `leetcode`
+- [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1) `GFG`
 
 ## yet to be solved
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
