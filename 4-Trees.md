@@ -37,8 +37,8 @@
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) `leetcode`
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) `leetcode`
 - [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1) `GFG`
-- 
+- [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `leetcode`
 
 ## Hard
-- [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
+
 
