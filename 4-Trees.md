@@ -44,5 +44,5 @@
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `leetcode`
 - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) `leetcode`
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) `leetcode`
-
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
 
