@@ -42,6 +42,7 @@
 - [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) `leetcode`
 - [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1) `GFG`
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `leetcode`
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) `leetcode`
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) `leetcode`
 
 
