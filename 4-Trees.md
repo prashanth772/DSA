@@ -30,6 +30,9 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) `leetcode`
 - [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/) `GFG`
+- [Lowest common Ancestor in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) `leetcode`
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description) `leetcode`
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) `leetcode`
 
 
 ## Medium
@@ -40,7 +43,5 @@
 - [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1) `GFG`
 - [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `leetcode`
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) `leetcode`
-
-## Hard
 
 
