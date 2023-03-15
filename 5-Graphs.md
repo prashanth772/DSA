@@ -8,3 +8,4 @@
 - [ALl Paths From Source To Destination](https://leetcode.com/problems/all-paths-from-source-to-target/description) `leetcode`
 - [Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) `GFG`
 - [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) `GFG`
+- [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `leetcode`547. Number of Provinces
